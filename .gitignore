@@ -1,0 +1,9 @@
+/venv
+
+/.idea
+
+/assignment_two/website-to-gcs.log
+
+assignment_two/__pycache__/
+
+.env
