@@ -1,4 +1,4 @@
-# data-engineering-repo
+# SPOTIFY-ELT-PIPELINE
 This project is currently being updated but should be complete by the 17th of October 2023 (lack of time to finish up the project)
 
 For now, the completed parts of the project are the implementation of Spotify's API, the code to push the CSV file to GCS, code to push the CSV file from GCS to BigQuery.
