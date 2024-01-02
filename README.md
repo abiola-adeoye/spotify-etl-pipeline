@@ -1,5 +1,5 @@
 # SPOTIFY-ELT-PIPELINE
-This project is currently being updated but should be complete soon (lack of time to finish up the project)
+This includes an endpoint used to get access to a user's account which can be seen in the app.py file and a script used to request for their listening data and pushed to an etl pipeline for further analysis.
 
 For now, the completed parts of the project are the implementation of Spotify's API, the code to push the CSV file to GCS, code to push the CSV file from GCS to BigQuery.
 The incomplete parts of the project for now include the transformation script to clean the data, the shell scripts used to deploy a cloud function as well and the cloud functions implementation.
